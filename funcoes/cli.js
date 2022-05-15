@@ -1,4 +1,4 @@
-#!/usr/bin/env node
+#!Joana Linhares da Silva. Programa de estagio IBlue
 
 const add = require('./add.js');
 
